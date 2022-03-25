@@ -87,14 +87,9 @@ public class Java3 {
          }}
          catch (Exception e){
                      extenso(uni, 1);
-                     }
-            
-         
-         
-       
+                     }       
     }
-    
-         
+   
     private static void extenso(String mii, int i) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
